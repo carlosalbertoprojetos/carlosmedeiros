@@ -1,6 +1,6 @@
 # Carlos Alberto Medeiros
 
-Desenvolvedor focado em backend, automação e sistemas SaaS.
+Desenvolvedor fullstack, automação e sistemas SaaS.
 
 ## Tecnologias
 Python | Django | FastAPI | Docker | PostgreSQL
