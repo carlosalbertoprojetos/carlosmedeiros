@@ -149,3 +149,50 @@ The systems developed follow modern software engineering principles:
 ## Documentation
 
 Each project contains:
+- README.md
+- docs/
+- architecture.md
+- requirements.txt
+- docker-compose.yml
+- src/
+- tests/
+
+---
+
+## Technical Writing
+
+Technical articles and studies are published at:
+
+Medium  
+https://medium.com/@carlosalbertoprojetos
+
+Topics include:
+
+- backend engineering
+- automation systems
+- software architecture
+- AI-assisted development
+
+---
+
+## Professional Background
+
+Software developer with experience in **backend engineering, automation systems and scalable web applications**.
+
+Currently working at:
+
+**INTIP – Inteligência em Internet**  
+Developing backend systems, automation solutions and web platforms.
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/carlos-alberto-medeiros-29aa6258/
+
+GitHub  
+https://github.com/carlosalbertoprojetos
+
+Portfolio  
+https://carlosalbertoprojetos.github.io/portfolio/
