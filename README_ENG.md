@@ -10,7 +10,7 @@ Medium: https://medium.com/@carlosalbertoprojetos
 
 ---
 
-# 🇺🇸 English Version
+# English Version
 
 ## Overview
 
